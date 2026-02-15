@@ -19,7 +19,7 @@ Modern arayüzler, temiz kod ve ürün odaklı projeler geliştiriyorum.
 ## 🧰 Teknolojiler
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,react,git,github,mysql,adobe,figma" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,html,css,js,bootstrap,react,git,github,mysql,figma" />
 </p>
 
 
